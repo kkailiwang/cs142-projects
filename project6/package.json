@@ -21,7 +21,7 @@
     "js-yaml": "^3.13.1",
     "mongoose": "^5.9.1",
     "nodemon": "^1.18.10",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.23.0",
     "promise": "^8.0.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
